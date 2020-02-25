@@ -1,3 +1,10 @@
+# Team Work Collaboration
+
+ ## Description
+ * Testing git hub skills
+ * Testing group work skills
+ * Testing understanding of the canvas content in week 4
+ 
 # Setup instructions 
 * Fork the repository
 * create a new branch (git checkout -b improve-feature)
